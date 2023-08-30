@@ -13,9 +13,6 @@
 * Node v16.13.1
 * npm v8.1.2
 * webpack v4.46.0
-* Jest v24.9.0
-* Babel v7.18.6
-* ESLint v8.18.0
 
 ## Description
 
@@ -31,7 +28,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 $ git clone [REPO-LINK]
 ```
 5. Navigate to the root of the newly cloned directory.
-6. In your terminal, type the following command to install the project's dependencies found in `package.json`:
+6. In your terminal, assuming Node.js and npm is installed, type the following command to install the project's dependencies found in `package.json`:
 ```bash
 $ npm install
 ```
