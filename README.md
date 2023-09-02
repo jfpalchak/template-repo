@@ -9,7 +9,6 @@
 * HTML
 * CSS
 * JavaScript
-* Bootstrap v5.2.3 
 * Node v16.13.1
 * npm v8.1.2
 * webpack v4.46.0
@@ -60,4 +59,4 @@ $ npm run start
 
 MIT License
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _date_ _Joey Palchak_
