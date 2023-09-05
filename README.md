@@ -36,7 +36,7 @@ $ npm install
 $ npm run build
 ```
   * Additionally, if you wish to:
-    1. Lint the JavaScript source code, you can do so by running the following command in the   application's root directory: 
+    1. Lint the JavaScript source code, you can do so by running ESLint the following command in the   application's root directory: 
     > `$ npm run lint`
     2. Run tests on the backend JavaScript with Jest, you can do so by running the following command in the application's root directory: 
     > `$ npm run test`
@@ -48,12 +48,11 @@ $ npm run start
 
 ### _Alternatively:_
 
-1. Go to the website directly via **[GitHub Pages](#link)**.
+1. Go to the website and access the application directly via **[GitHub Pages](#link)**.
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs at this time. If any bugs are discovered, please contact the author._
 
 ## License
 
